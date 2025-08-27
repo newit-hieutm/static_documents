@@ -1,0 +1,452 @@
+[
+    {
+        "content": "\u003C!--{if $class_flag == true}--\u003E\u003C!--{$product_code}--\u003E\u003C!--{else}--\u003E\u003C!--{$商品番号$}--\u003E\u003C!--{/if}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:product_code",
+        "disp_name": "JSON:商品番号",
+        "rank": "1",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$marketplace_category}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:display_category_code",
+        "disp_name": "JSON:表示カテゴリコード",
+        "rank": "3",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$shopdata_coupang_vendor_id}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:vendor_id",
+        "disp_name": "JSON:ベンダーID",
+        "rank": "4",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$表示商品名$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:display_product_name",
+        "disp_name": "JSON:表示商品名",
+        "rank": "5",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$ブランド$|master_id2data:\"data2\"|replace:\" \":\"\"}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:brand",
+        "disp_name": "JSON:ブランド",
+        "rank": "6",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$一般商品名$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:general_product_name",
+        "disp_name": "JSON:一般商品名",
+        "rank": "7",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$製品グループ$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:product_group",
+        "disp_name": "JSON:製品グループ",
+        "rank": "8",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$配送方法$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:delivery_method",
+        "disp_name": "JSON:配送方法",
+        "rank": "9",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{if $配送会社コード$}--\u003E\r\n    \u003C!--{$配送会社コード$|master_id2data:\u0022data2\u0022}--\u003E\r\n\u003C!--{/if}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:delivery_company_code",
+        "disp_name": "JSON:配送会社コード",
+        "rank": "10",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$配送料タイプ$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:delivery_charge_type",
+        "disp_name": "JSON:配送料タイプ",
+        "rank": "11",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$配送料$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:delivery_charge",
+        "disp_name": "JSON:配送料",
+        "rank": "12",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$送料無料条件$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:free_ship_over_amount",
+        "disp_name": "JSON:送料無料条件",
+        "rank": "13",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$返送料$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:delivery_charge_on_return",
+        "disp_name": "JSON:返送料",
+        "rank": "14",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$遠方地域配達可能$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:remote_area_deliverable",
+        "disp_name": "JSON:遠方地域配達可能",
+        "rank": "15",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$統合配送タイプ$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:union_delivery_type",
+        "disp_name": "JSON:統合配送タイプ",
+        "rank": "16",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$返品料金$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:return_charge",
+        "disp_name": "JSON:返品料金",
+        "rank": "17",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$shopdata_shipping_location}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:shipping_place_code",
+        "disp_name": "JSON:出荷場所コード",
+        "rank": "18",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$shopdata_return_location}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:return_center_code",
+        "disp_name": "JSON:返品センターコード",
+        "rank": "18",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$shopdata_coupang_vendor_user_id}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:vendor_user_id",
+        "disp_name": "JSON:ベンダーユーザーID",
+        "rank": "19",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$リクエストされた$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:requested",
+        "disp_name": "JSON:リクエストされた",
+        "rank": "20",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{if $ss_product_price}--\u003E\n  \u003C!--{$ss_product_price}--\u003E\n\u003C!--{elseif $price02}--\u003E\n  \u003C!--{$price02}--\u003E\n\u003C!--{/if}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:selling_price",
+        "disp_name": "JSON:販売価格",
+        "rank": "21",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$stock|stock_num}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:stock",
+        "disp_name": "JSON:在庫数",
+        "rank": "21",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{if $class_flag == true}--\u003E \u003C!--{$price01}--\u003E \u003C!--{else}--\u003E \u003C!--{$元の価格$}--\u003E \u003C!--{/if}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:original_price",
+        "disp_name": "JSON:元の価格",
+        "rank": "22",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$商品説明$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:main_comment",
+        "disp_name": "JSON:商品説明",
+        "rank": "23",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$1人あたりの最大注文数量$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:maximum_buy_for_person",
+        "disp_name": "JSON:1人あたりの最大注文数量",
+        "rank": "24",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$最大注文数量期間$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:maximum_buy_for_person_period",
+        "disp_name": "JSON:最大注文数量期間",
+        "rank": "25",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$出荷日数（日）$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:outbound_shipping_time_day",
+        "disp_name": "JSON:出荷日数（日）",
+        "rank": "26",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$大人のみ$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:adult_only",
+        "disp_name": "JSON:大人のみ",
+        "rank": "27",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$税金の種類$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:tax_type",
+        "disp_name": "JSON:税金の種類",
+        "rank": "28",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$並行輸入$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:parallel_imported",
+        "disp_name": "JSON:並行輸入",
+        "rank": "29",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$海外調達$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:overseas_purchased",
+        "disp_name": "JSON:海外調達",
+        "rank": "30",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$個人通関コード$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:pcc_needed",
+        "disp_name": "JSON:個人通関コード",
+        "rank": "31",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$option1_key}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:option1_key",
+        "disp_name": "JSON:オプション1キー",
+        "rank": "32",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$option1_value}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:option1_value",
+        "disp_name": "JSON:オプション1の値",
+        "rank": "33",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$option2_key}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:option2_key",
+        "disp_name": "JSON:オプション2キー",
+        "rank": "34",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$option2_value}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:option2_value",
+        "disp_name": "JSON:オプション2の値",
+        "rank": "35",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:option3_key",
+        "disp_name": "JSON:オプション3キー",
+        "rank": "36",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:option3_value",
+        "disp_name": "JSON:オプション3の値",
+        "rank": "37",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:option4_key",
+        "disp_name": "JSON:オプション4キー",
+        "rank": "38",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:option4_value",
+        "disp_name": "JSON:オプション4の値",
+        "rank": "39",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{section name=\"product_image\" loop=$product_images start=0}--\u003E\r\n\u003C!--{$smarty.const.IMG_CDN_URL}--\u003E\u003C!--{$smarty.const.SHOP_DOMAIN}--\u003E/save_image/\u003C!--{$product_images[$smarty.section.product_image.index]}--\u003E\r\n\u003C!--{/section}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:images",
+        "disp_name": "JSON:画像",
+        "rank": "40",
+        "mtb_ss_id": "57"
+    },
+    {
+		"content": "\u003C!--{$単位数$}--\u003E",
+		"outfile_flag": "0",
+		"outfile_name": "",
+		"name": "JSON:unit_count",
+		"disp_name": "JSON:単位数",
+		"rank": "41",
+		"mtb_ss_id": "57"
+	},
+    {
+        "content": "\u003C!--{$キーワード$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:keywords",
+        "disp_name": "JSON:キーワード",
+        "rank": "42",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$商品の状態$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:offer_condition",
+        "disp_name": "JSON:商品の状態",
+        "rank": "43",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$中古商品の詳細説明$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:offer_description",
+        "disp_name": "JSON:中古商品の詳細説明",
+        "rank": "44",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$メーカー$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:manufacture",
+        "disp_name": "JSON:メーカー",
+        "rank": "45",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$バーコード$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:barcode",
+        "disp_name": "JSON:バーコード",
+        "rank": "46",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{$型番$}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:model_number",
+        "disp_name": "JSON:型番",
+        "rank": "47",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "SINGLE",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:bundle_type",
+        "disp_name": "JSON:バンドル商品タイプ",
+        "rank": "48",
+        "mtb_ss_id": "57"
+    },
+    {
+        "content": "\u003C!--{if $deliv_id == 5}--\u003E EMS \u003C!--{elseif $deliv_id == 7}--\u003E DHL \u003C!--{elseif $deliv_id == 8}--\u003E FEDEX \u003C!--{elseif $deliv_id == 11}--\u003E UPS \u003C!--{else}--\u003E OTHER \u003C!--{/if}--\u003E",
+        "outfile_flag": "0",
+        "outfile_name": "",
+        "name": "JSON:courier_code",
+        "disp_name": "JSON:配送業者コード",
+        "rank": "49",
+        "mtb_ss_id": "57"
+    }
+]
