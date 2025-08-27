@@ -1,0 +1,179 @@
+id,category,data1,data2,data3,data4,data5,data6,data7,data8,data9,data10,data11,data12,data13,data14,data15,data16,data17,data18,data19,data20,rows_id,rank
+4428,courier_code,Lotte Global Logistics,HYUNDAI,,,,,,,,,,,,,,,,,,,,1000
+4429,courier_code,Logen Logistics,KGB,,,,,,,,,,,,,,,,,,,,1000
+4430,courier_code,Korea Post,EPOST,,,,,,,,,,,,,,,,,,,,1000
+4431,courier_code,Hanjin Global Logistics,HANJIN,,,,,,,,,,,,,,,,,,,,1000
+4432,courier_code,CJ Logistics,CJGLS,,,,,,,,,,,,,,,,,,,,1000
+4433,courier_code,Kyoungdong Express,KDEXP,,,,,,,,,,,,,,,,,,,,1000
+4434,courier_code,Courier Direct Delivery,DIRECT,,,,,,,,,,,,,,,,,,,,1000
+4435,courier_code,Ilyang Logistics,ILYANG,,,,,,,,,,,,,,,,,,,,1000
+4436,courier_code,Chunil Parcel,CHUNIL,,,,,,,,,,,,,,,,,,,,1000
+4437,courier_code,Ajou Logistics,AJOU,,,,,,,,,,,,,,,,,,,,1000
+4438,courier_code,SC Logistics,CSLOGIS,,,,,,,,,,,,,,,,,,,,1000
+4439,courier_code,Daesin Parcel,DAESIN,,,,,,,,,,,,,,,,,,,,1000
+4440,courier_code,CVS Parcel,CVS,,,,,,,,,,,,,,,,,,,,1000
+4441,courier_code,Hapdong Express,HDEXP,,,,,,,,,,,,,,,,,,,,1000
+4442,courier_code,DHL,DHL,,,,,,,,,,,,,,,,,,,,1000
+4443,courier_code,UPS,UPS,,,,,,,,,,,,,,,,,,,,1000
+4444,courier_code,FEDEX,FEDEX,,,,,,,,,,,,,,,,,,,,1000
+4445,courier_code,Registered Mail,REGISTPOST,,,,,,,,,,,,,,,,,,,,1000
+4446,courier_code,Korea Post EMS,EMS,,,,,,,,,,,,,,,,,,,,1000
+4447,courier_code,TNT,TNT,,,,,,,,,,,,,,,,,,,,1000
+4448,courier_code,USPS,USPS,,,,,,,,,,,,,,,,,,,,1000
+4449,courier_code,i-parcel,IPARCEL,,,,,,,,,,,,,,,,,,,,1000
+4450,courier_code,GSM NtoN,GSMNTON,,,,,,,,,,,,,,,,,,,,1000
+4451,courier_code,Sungwon Global Cargo,SWGEXP,,,,,,,,,,,,,,,,,,,,1000
+4452,courier_code,Pantos Logistics,PANTOS,,,,,,,,,,,,,,,,,,,,1000
+4453,courier_code,ACI Express,ACIEXPRESS,,,,,,,,,,,,,,,,,,,,1000
+4454,courier_code,Daewoon Global,DAEWOON,,,,,,,,,,,,,,,,,,,,1000
+4455,courier_code,Airboy Express,AIRBOY,,,,,,,,,,,,,,,,,,,,1000
+4456,courier_code,KGL Networks,KGLNET,,,,,,,,,,,,,,,,,,,,1000
+4457,courier_code,Kunyoung Express,KUNYOUNG,,,,,,,,,,,,,,,,,,,,1000
+4458,courier_code,SLX Logistics,SLX,,,,,,,,,,,,,,,,,,,,1000
+4459,courier_code,Woori Logistics,HONAM,,,,,,,,,,,,,,,,,,,,1000
+4460,courier_code,LineExpress,LINEEXPRESS,,,,,,,,,,,,,,,,,,,,1000
+4461,courier_code,2FastsExpress,TWOFASTEXP,,,,,,,,,,,,,,,,,,,,1000
+4462,courier_code,HPL,HPL,,,,,,,,,,,,,,,,,,,,1000
+4463,courier_code,GoodsToLuck,GOODSTOLUCK,,,,,,,,,,,,,,,,,,,,1000
+4464,courier_code,CJ Logistics Express,KOREXG,,,,,,,,,,,,,,,,,,,,1000
+4465,courier_code,Handex,HANDEX,,,,,,,,,,,,,,,,,,,,1000
+4466,courier_code,BGF,BGF,,,,,,,,,,,,,,,,,,,,1000
+4467,courier_code,ECMS Express,ECMS,,,,,,,,,,,,,,,,,,,,1000
+4468,courier_code,Wonders,WONDERS,,,,,,,,,,,,,,,,,,,,1000
+4469,courier_code,Yongma Logistics,YONGMA,,,,,,,,,,,,,,,,,,,,1000
+4470,courier_code,Sebang Logistics,SEBANG,,,,,,,,,,,,,,,,,,,,1000
+4471,courier_code,Nonghyup Logis,NHLOGIS,,,,,,,,,,,,,,,,,,,,1000
+4472,courier_code,Lotte Global Logistics,LOTTEGLOBAL,,,,,,,,,,,,,,,,,,,,1000
+4473,courier_code,GSI Express,GSIEXPRESS,,,,,,,,,,,,,,,,,,,,1000
+4474,courier_code,EFS,EFS,,,,,,,,,,,,,,,,,,,,1000
+4475,courier_code,DHL GlobalMail,DHLGLOBALMAIL,,,,,,,,,,,,,,,,,,,,1000
+4476,courier_code,GPS Logix,GPSLOGIX,,,,,,,,,,,,,,,,,,,,1000
+4477,courier_code,CR Logitech,CRLX,,,,,,,,,,,,,,,,,,,,1000
+4478,courier_code,Bridge Logis,BRIDGE,,,,,,,,,,,,,,,,,,,,1000
+4479,courier_code,Home Innovation Logis,HOMEINNOV,,,,,,,,,,,,,,,,,,,,1000
+4480,courier_code,CWAY,CWAY,,,,,,,,,,,,,,,,,,,,1000
+4481,courier_code,G-Network,GNETWORK,,,,,,,,,,,,,,,,,,,,1000
+4482,courier_code,ACE Express,ACEEXP,,,,,,,,,,,,,,,,,,,,1000
+4483,courier_code,Woori Dongne Logistics,WEVILL,,,,,,,,,,,,,,,,,,,,1000
+4484,courier_code,Forever PS,FOREVERPS,,,,,,,,,,,,,,,,,,,,1000
+4485,courier_code,Warpex,WARPEX,,,,,,,,,,,,,,,,,,,,1000
+4486,courier_code,Qxpress,QXPRESS,,,,,,,,,,,,,,,,,,,,1000
+4487,courier_code,Smart Logis,SMARTLOGIS,,,,,,,,,,,,,,,,,,,,1000
+4488,courier_code,Home Pick Logistics,HOMEPICK,,,,,,,,,,,,,,,,,,,,1000
+4489,courier_code,GTS Logis,GTSLOGIS,,,,,,,,,,,,,,,,,,,,1000
+4490,courier_code,Esther Shipping,ESTHER,,,,,,,,,,,,,,,,,,,,1000
+4491,courier_code,Lotos,INTRAS,,,,,,,,,,,,,,,,,,,,1000
+4492,courier_code,Eunha Shipping,EUNHA,,,,,,,,,,,,,,,,,,,,1000
+4493,courier_code,Ufreight Korea,UFREIGHT,,,,,,,,,,,,,,,,,,,,1000
+4494,courier_code,L Service,LSERVICE,,,,,,,,,,,,,,,,,,,,1000
+4495,courier_code,Logis Valley,TPMLOGIS,,,,,,,,,,,,,,,,,,,,1000
+4496,courier_code,Zeniel System,ZENIELSYSTEM,,,,,,,,,,,,,,,,,,,,1000
+4497,courier_code,Any Track,ANYTRACK,,,,,,,,,,,,,,,,,,,,1000
+4498,courier_code,J Logist,JLOGIST,,,,,,,,,,,,,,,,,,,,1000
+4499,courier_code,Doobal Hero,CHAINLOGIS,,,,,,,,,,,,,,,,,,,,1000
+4500,courier_code,Q Run,QRUN,,,,,,,,,,,,,,,,,,,,1000
+4501,courier_code,Fresh Solutions,FRESHSOLUTIONS,,,,,,,,,,,,,,,,,,,,1000
+4502,courier_code,Hive City,HIVECITY,,,,,,,,,,,,,,,,,,,,1000
+4503,courier_code,Han Ssem,HANSSEM,,,,,,,,,,,,,,,,,,,,1000
+4504,courier_code,SFC(Santai),SFC,,,,,,,,,,,,,,,,,,,,1000
+4505,courier_code,J-NET,JNET,,,,,,,,,,,,,,,,,,,,1000
+4506,courier_code,Good to Luck,GOODSTOLUCK,,,,,,,,,,,,,,,,,,,,1000
+4507,courier_code,GENIEGO,PANASIA,,,,,,,,,,,,,,,,,,,,1000
+4508,courier_code,elianpost,ELIAN,,,,,,,,,,,,,,,,,,,,1000
+4509,courier_code,LOTTECHILSUNG,LOTTECHILSUNG,,,,,,,,,,,,,,,,,,,,1000
+4510,courier_code,SBGLS,SBGLS,,,,,,,,,,,,,,,,,,,,1000
+4511,courier_code,ALLTAKOREA,ALLTAKOREA,,,,,,,,,,,,,,,,,,,,1000
+4512,courier_code,yunda express,YUNDA,,,,,,,,,,,,,,,,,,,,1000
+4513,courier_code,VALEX,VALEX,,,,,,,,,,,,,,,,,,,,1000
+4514,courier_code,KOKUSAI express,KOKUSAI,,,,,,,,,,,,,,,,,,,,1000
+4515,courier_code,WINHAND SEA & AIR,XINPATEK,,,,,,,,,,,,,,,,,,,,1000
+4516,courier_code,Tango and Go,HEREWEGO,,,,,,,,,,,,,,,,,,,,1000
+4517,courier_code,WOONGJI express,WOONGJI,,,,,,,,,,,,,,,,,,,,1000
+4518,courier_code,PINGPONG,PINGPONG,,,,,,,,,,,,,,,,,,,,1000
+4519,courier_code,YDH,YDH,,,,,,,,,,,,,,,,,,,,1000
+4520,courier_code,CARGOPLEASE,CARGOPLEASE,,,,,,,,,,,,,,,,,,,,1000
+4521,courier_code,LOGISPOT,LOGISPOT,,,,,,,,,,,,,,,,,,,,1000
+4522,courier_code,FRESHMATES,FRESHMATES,,,,,,,,,,,,,,,,,,,,1000
+4523,courier_code,VROONG,VROONG,,,,,,,,,,,,,,,,,,,,1000
+4524,courier_code,NK Logisolution,NKLS,,,,,,,,,,,,,,,,,,,,1000
+4525,courier_code,DODOFLEX,DODOFLEX,,,,,,,,,,,,,,,,,,,,1000
+4526,courier_code,ETOMARS,ETOMARS,,,,,,,,,,,,,,,,,,,,1000
+4527,courier_code,SHIPNERGY,SHIPNERGY,,,,,,,,,,,,,,,,,,,,1000
+4528,courier_code,VENDORPIA,VENDORPIA,,,,,,,,,,,,,,,,,,,,1000
+4529,courier_code,COSHIP,COSHIP,,,,,,,,,,,,,,,,,,,,1000
+4530,courier_code,GDAKOREA,GDAKOREA,,,,,,,,,,,,,,,,,,,,1000
+4531,courier_code,BABABA LOGIS,BABABA,,,,,,,,,,,,,,,,,,,,1000
+4532,courier_code,TEAMFRESH,TEAMFRESH,,,,,,,,,,,,,,,,,,,,1000
+4533,courier_code,1004 HOME,HOME1004,,,,,,,,,,,,,,,,,,,,1000
+4534,courier_code,NAEUN LOGIS,NAEUN,,,,,,,,,,,,,,,,,,,,1000
+4535,courier_code,acccargo,ACCCARGO,,,,,,,,,,,,,,,,,,,,1000
+4536,courier_code,NTLPS,NTLPS,,,,,,,,,,,,,,,,,,,,1000
+4537,courier_code,EKDP,EKDP,,,,,,,,,,,,,,,,,,,,1000
+4538,courier_code,HOTSINGCARGO KOREA,HOTSINGCARGO,,,,,,,,,,,,,,,,,,,,1000
+4539,courier_code,SINOTRANS EXPRESS,SINOEX,,,,,,,,,,,,,,,,,,,,1000
+4549,courier_code,DRABBIT,DRABBIT,,,,,,,,,,,,,,,,,,,,1000
+4550,courier_code,HOMEPICKTODAY,HOMEPICKTODAY,,,,,,,,,,,,,,,,,,,,1000
+4551,courier_code,DAERIM Logistics,DAERIM,,,,,,,,,,,,,,,,,,,,1000
+4552,courier_code,LOGISPARTNER,LOGISPARTNER,,,,,,,,,,,,,,,,,,,,1000
+4553,courier_code,GOBOX,GOBOX,,,,,,,,,,,,,,,,,,,,1000
+4554,courier_code,FASTBOX,FASTBOX,,,,,,,,,,,,,,,,,,,,1000
+4555,courier_code,PANSTAR,PANSTAR,,,,,,,,,,,,,,,,,,,,1000
+4556,courier_code,ACTCORE,ACTCORE,,,,,,,,,,,,,,,,,,,,1000
+4557,courier_code,KJT,KJT,,,,,,,,,,,,,,,,,,,,1000
+4558,courier_code,THEBAO,THEBAO,,,,,,,,,,,,,,,,,,,,1000
+4559,courier_code,RUSH,RUSH,,,,,,,,,,,,,,,,,,,,1000
+4560,courier_code,kt express,KT,,,,,,,,,,,,,,,,,,,,1000
+4561,courier_code,ibpcorp,IBP,,,,,,,,,,,,,,,,,,,,1000
+4562,courier_code,HY,HY,,,,,,,,,,,,,,,,,,,,1000
+4563,courier_code,LOGISVALLEY,LOGISVALLEY,,,,,,,,,,,,,,,,,,,,1000
+4564,courier_code,TODAY,TODAY,,,,,,,,,,,,,,,,,,,,1000
+4565,courier_code,ONEDAYLOGIS,ONEDAYLOGIS,,,,,,,,,,,,,,,,,,,,1000
+4566,courier_code,HKHOLDINGS,HKHOLDINGS,,,,,,,,,,,,,,,,,,,,1000
+4567,courier_code,JIKGUMOON,JIKGUMOON,,,,,,,,,,,,,,,,,,,,1000
+4568,courier_code,CUBEFLOW,CUBEFLOW,,,,,,,,,,,,,,,,,,,,1000
+4569,courier_code,SUNGHUN DISTRIBUTION,SHFLY,,,,,,,,,,,,,,,,,,,,1000
+4570,courier_code,GBS,GBS,,,,,,,,,,,,,,,,,,,,1000
+4571,courier_code,BANPOOM,BANPOOM,,,,,,,,,,,,,,,,,,,,1000
+4572,courier_code,HYUNDAI GLOVIS,GLOVIS,,,,,,,,,,,,,,,,,,,,1000
+4573,courier_code,ARGO,ARGO,,,,,,,,,,,,,,,,,,,,1000
+4574,courier_code,Deli Box,JMNP,,,,,,,,,,,,,,,,,,,,1000
+4575,courier_code,Samsung Logitec,SELC,,,,,,,,,,,,,,,,,,,,1000
+4576,courier_code,MT International,MTINTER,,,,,,,,,,,,,,,,,,,,1000
+4577,courier_code,GOLD SNAPS,GDSP,,,,,,,,,,,,,,,,,,,,1000
+4578,courier_code,TODAY PICKUP,TODAYPICKUP,,,,,,,,,,,,,,,,,,,,1000
+4579,courier_code,YJS GLOBAL,YJSGLOBAL,,,,,,,,,,,,,,,,,,,,1000
+4580,courier_code,EURO Parcel,DUXGLOBAL,,,,,,,,,,,,,,,,,,,,1000
+4581,courier_code,INTER LOGIS,INTERLOGIS,,,,,,,,,,,,,,,,,,,,1000
+4582,courier_code,WOOJIN INTER LOGIS,WOOJIN,,,,,,,,,,,,,,,,,,,,1000
+4583,courier_code,WIDE TECH,WIDETECH,,,,,,,,,,,,,,,,,,,,1000
+4584,courier_code,ECOHAI,ECOHAI,,,,,,,,,,,,,,,,,,,,1000
+4585,courier_code,TONAMI,TONAMI,,,,,,,,,,,,,,,,,,,,1000
+4586,courier_code,1st cargo,DAIICHI,,,,,,,,,,,,,,,,,,,,1000
+4587,courier_code,FUKUYAMA Logistics,FUKUYAMA,,,,,,,,,,,,,,,,,,,,1000
+4588,courier_code,KURLYNEXTMILE,KURLYNEXTMILE,,,,,,,,,,,,,,,,,,,,1000
+4589,courier_code,ARAMEX,ARAMEX,,,,,,,,,,,,,,,,,,,,1000
+4590,courier_code,BISNZ,BISNZ,,,,,,,,,,,,,,,,,,,,1000
+4591,courier_code,INNOS,INNOS,,,,,,,,,,,,,,,,,,,,1000
+4592,courier_code,SEORIM Logistics,SEORIM,,,,,,,,,,,,,,,,,,,,1000
+4593,courier_code,WEMOVE,WEMOVE,,,,,,,,,,,,,,,,,,,,1000
+4594,courier_code,POOLATHOME,POOLATHOME,,,,,,,,,,,,,,,,,,,,1000
+4595,courier_code,SPARKLE Logistics,SPARKLE,,,,,,,,,,,,,,,,,,,,1000
+4596,courier_code,ICS,ICS,,,,,,,,,,,,,,,,,,,,1000
+4597,courier_code,CAINIAO,CAINIAO,,,,,,,,,,,,,,,,,,,,1000
+4598,courier_code,HWATONG,HWATONG,,,,,,,,,,,,,,,,,,,,1000
+4599,courier_code,ESTLA,ESTLA,,,,,,,,,,,,,,,,,,,,1000
+4600,courier_code,IK DISTRIBUTION,IK,,,,,,,,,,,,,,,,,,,,1000
+4601,courier_code,PULMUONE WATER,PULMUONEWATER,,,,,,,,,,,,,,,,,,,,1000
+4602,courier_code,TSG Logistics,TSG,,,,,,,,,,,,,,,,,,,,1000
+4603,courier_code,ocs Korea,OCS,,,,,,,,,,,,,,,,,,,,1000
+4604,courier_code,MDLOGIS,MDLOGIS,,,,,,,,,,,,,,,,,,,,1000
+4605,courier_code,GCS,GCS,,,,,,,,,,,,,,,,,,,,1000
+4606,courier_code,Logistics Daejang,FTF,,,,,,,,,,,,,,,,,,,,1000
+4607,courier_code,Hubnet Logistics,HUBNET,,,,,,,,,,,,,,,,,,,,1000
+4608,courier_code,Winion Losis,WINION_3P,,,,,,,,,,,,,,,,,,,,1000
+4609,courier_code,Woori HanBang Logistics,WOORIHB,,,,,,,,,,,,,,,,,,,,1000
+4610,courier_code,Letus,LETUS,,,,,,,,,,,,,,,,,,,,1000
+4611,courier_code,JWTNL,JWTNL,,,,,,,,,,,,,,,,,,,,1000
+4612,courier_code,JCLS,JCLS,,,,,,,,,,,,,,,,,,,,1000
+4613,courier_code,GKGLOBAL,GKGLOBAL,,,,,,,,,,,,,,,,,,,,1000
+4614,courier_code,GONELO,GONELO,,,,,,,,,,,,,,,,,,,,1000
